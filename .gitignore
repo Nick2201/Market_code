@@ -1,2 +1,4 @@
-1.png
+
 .ipynb_checkpoints/
+.geckodriver.log
+.geckodriver.exe
